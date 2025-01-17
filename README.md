@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourusername](https://twitter.com/yourusername)
 
-Project Link: [https://github.com/yourusername/e-commerce](https://github.com/yourusername/e-commerce)
+Project Link: [https://github.com/shaileshgaikwad/e-commerce](https://github.com/yourusername/e-commerce)
